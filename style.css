@@ -1,9 +1,13 @@
 p {
 color: blue
 }
+<style type="text/css">
 h2 {
-  color: green
+    color:#069;
 }
+</style>
+<style type="text/css">
 h3 {
-  color: red
+    color:#069;
 }
+</style>
